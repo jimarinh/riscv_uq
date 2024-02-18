@@ -1,6 +1,6 @@
 \m4_TLV_version 1d: tl-x.org
 \TLV myperipheral()   
-  /view
+   /view
       \viz_js
          box: {width: 360, height: 183, strokeWidth: 0},
          init() {
